@@ -1805,6 +1805,10 @@ section {
 .credits{
   color: #fff;
 }
+.credits a{
+  color: #fff;
+}
+
 
 #footer .credits {
   padding-top: 10px;

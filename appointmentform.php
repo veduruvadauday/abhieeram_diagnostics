@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Content
         $mail->isHTML(true);
-        $mail->Subject = 'New Message from Contact Form';
+        $mail->Subject = 'New Message from abhieeram_diagnostics';
         $mail->Body = "
             <h1>New Message</h1>
             <h1>New Appointment</h1>
@@ -56,4 +56,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // If accessed directly without POST data
     echo 'Access Denied';
 }
+
+
 ?>

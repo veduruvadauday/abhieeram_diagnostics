@@ -5,12 +5,14 @@ use PHPMailer\PHPMailer\Exception;
 require 'vendor/autoload.php'; // Adjust the path to autoload.php based on your project
 
 // Check if the form is submitted
+//-----Contact form------
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Assign POST data to variables
-    $name = $_POST['name'] ?? '';
-    $email = $_POST['email'] ?? '';
-    $subject = $_POST['subject'] ?? '';
-    $message = $_POST['message'] ?? '';
+    $contactname = $_POST['contactname'] ?? '';
+    $contactemail = $_POST['contactemail'] ?? '';
+    $contactsubject = $_POST['contactsubject'] ?? '';
+    $contactmessage = $_POST['contactmessage'] ?? '';
 
     // Create a new PHPMailer instance
     $mail = new PHPMailer(true);
@@ -34,14 +36,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Subject = 'New Message from abhieeram_diagnostic';
         $mail->Body = "
             <h1>New Message</h1>
-            <p><strong>Name:</strong> $name</p>
-            <p><strong>Email:</strong> $email</p>
-            <p><strong>Phone:</strong> $subject</p>
-            <p><strong>Message:</strong><br>$message</p>
+            <h1>Contact Details</h1>
+            <p><strong>Name:</strong> $contactname</p>
+            <p><strong>Email:</strong> $contactemail</p>
+            <p><strong>Phone:</strong> $contactsubject</p>
+            <p><strong>Message:</strong><br>$contactmessage</p>
         ";
 
         $mail->send();
-       echo  "<script>window.alert('Message has been sent!');</script>";
+       echo  "Your message has been sent. Thank you!";
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }

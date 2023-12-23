@@ -71,8 +71,16 @@
 
       <div class="carousel-inner" role="listbox">
 
+      <div class="carousel-item active" style="background-image: url(assets/img/abhiramchristmasposter.jpg)">
+          <!-- <div class="container">
+            <h2>Advanced CT Scanner Services</h2>
+            <p>Experience precision and clarity in diagnostic imaging with our state-of-the-art CT Scanner service. We provide comprehensive assessments of various medical conditions, aiding physicians in making informed decisions about your health.</p>
+            <a href="#facilities" class="btn-get-started scrollto">Read More</a>
+          </div> -->
+        </div>
+
         <!-- Slide 1 - CT Scanner -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slides4.jpeg)">
+        <div class="carousel-item " style="background-image: url(assets/img/slide/slides4.jpeg)">
           <!-- <div class="container">
             <h2>Advanced CT Scanner Services</h2>
             <p>Experience precision and clarity in diagnostic imaging with our state-of-the-art CT Scanner service. We provide comprehensive assessments of various medical conditions, aiding physicians in making informed decisions about your health.</p>

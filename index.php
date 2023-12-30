@@ -64,55 +64,57 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+  <div id="carouselExampleFade" data-bs-interval="1000"  class="carousel slide carousel-fade" data-bs-ride="carousel"  >
+  <div class="carousel-inner cor_med">
+    <div class="carousel-item active">
+      <img src="assets/img/abhiramchristmasposter.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/slide/slides4.jpeg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/slide/slides1.jpeg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/slide/slides3.jpeg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+  <!-- <section id="hero">
+    <div id="heroCarousel" data-bs-interval="1000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
       <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
       <div class="carousel-inner" role="listbox">
 
       <div class="carousel-item active" style="background-image: url(assets/img/abhiramchristmasposter.jpg)">
-          <!-- <div class="container">
-            <h2>Advanced CT Scanner Services</h2>
-            <p>Experience precision and clarity in diagnostic imaging with our state-of-the-art CT Scanner service. We provide comprehensive assessments of various medical conditions, aiding physicians in making informed decisions about your health.</p>
-            <a href="#facilities" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+         
         </div>
 
-        <!-- Slide 1 - CT Scanner -->
-        <div class="carousel-item " style="background-image: url(assets/img/slide/slides4.jpeg)">
-          <!-- <div class="container">
-            <h2>Advanced CT Scanner Services</h2>
-            <p>Experience precision and clarity in diagnostic imaging with our state-of-the-art CT Scanner service. We provide comprehensive assessments of various medical conditions, aiding physicians in making informed decisions about your health.</p>
-            <a href="#facilities" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+         <div class="carousel-item " style="background-image: url(assets/img/slide/slides4.jpeg)">
+        
         </div>
       
-        <!-- Slide 2 - Digital X-Ray -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slides1.jpeg)">
-          <!-- <div class="container">
-            <h2>High-Quality Digital X-Ray Services</h2>
-            <p>Our Digital X-Ray service is dedicated to delivering high-quality, efficient diagnostic imaging for a wide range of medical conditions. We prioritize your comfort and safety throughout the examination process.</p>
-            <a href="#facilities" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+         <div class="carousel-item" style="background-image: url(assets/img/slide/slides1.jpeg)">
+           
         </div>
       
-        <!-- Slide 3 - Ultrasound -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slides3.jpeg)">
-          <!-- <div class="container">
-            <h2>Comprehensive Ultrasound Imaging</h2>
-            <p>Our Ultrasound service stands as a pillar of advanced medical imaging, catering to a wide spectrum of healthcare needs. We utilize ultrasound technology to create detailed images of internal structures and organs.</p>
-            <a href="#facilities" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+         <div class="carousel-item" style="background-image: url(assets/img/slide/slides3.jpeg)">
+        
         </div>
       
-        <!-- Slide 4 - Colour Doppler -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slides2.jpeg)">
-          <!-- <div class="container">
-            <h2>Precision Vascular Studies with Colour Doppler</h2>
-            <p>Explore our Colour Doppler service, specializing in vascular studies using state-of-the-art technology. We provide comprehensive assessments of blood flow and vascular health, offering crucial insights into various medical conditions.</p>
-            <a href="#facilities" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+         <div class="carousel-item" style="background-image: url(assets/img/slide/slides2.jpeg)">
+          
         </div>
       
       </div>
@@ -127,7 +129,7 @@
       </a>
 
     </div>
-  </section><!-- End Hero -->
+  </section>  -->
 
   <main id="main">
 

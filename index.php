@@ -358,11 +358,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Entering Abhiram Diagnostics, I experienced exceptional care for my health. The center takes proactive measures to ensure patients' well-being from the moment they step in until they leave. A thumbs up for their commitment to health and wellness!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
+                <h3>Kalyan jeelakarra</h3>
                 <h4>Ceo &amp; Founder</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -371,11 +371,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Abhiram Diagnostics is a good center where the doctors excel not only in their diagnostic expertise but also in their excellent communication skills. I appreciate how the doctors take the time to explain and address any concerns patients may have, contributing to a positive and informed healthcare experience.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
+                <h3>mallepallipacs </h3>
                 <h4>Designer</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -384,11 +384,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Abhiram Diagnostics is a truly good center, and the patient reception is very nice. The welcoming and caring atmosphere makes the overall experience exceptional, ensuring that patients feel valued and well-received throughout their visit
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
+                <h3>Meghana</h3>
                 <h4>Store Owner</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -397,11 +397,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  The radiologists at Abhiram Diagnostics are truly commendable. Their excellent communication skills and the way they interact with patients create a positive and reassuring environment. Combined with the overall excellence of the center, it's undeniably a good choice for diagnostic services.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
+                <h3>vijay gandhi</h3>
                 <h4>Freelancer</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -410,11 +410,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  Abhiram Diagnostics is truly an excellent center, thanks to its exceptional care and prompt reporting. The dedication to providing quality service and swift reporting sets it apart, making it a reliable choice for anyone seeking top-notch diagnostic services.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <h3>M Shatiskumar</h3>
                 <h4>Entrepreneur</h4>
               </div>
             </div><!-- End testimonial item -->

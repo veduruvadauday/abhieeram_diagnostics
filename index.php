@@ -66,10 +66,10 @@
   <!-- ======= Hero Section ======= -->
   <div id="carouselExampleFade" data-bs-interval="3000"  class="carousel slide carousel-fade" data-bs-ride="carousel"  >
   <div class="carousel-inner cor_med">
-    <div class="carousel-item active">
+    <!-- <div class="carousel-item active">
       <img src="assets/img/abhieeram_republic_day_slider.jpg" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item ">
+    </div> -->
+    <div class="carousel-item active">
       <img src="assets/img/slide/slides4.jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
@@ -361,9 +361,9 @@
                   Entering Abhiram Diagnostics, I experienced exceptional care for my health. The center takes proactive measures to ensure patients' well-being from the moment they step in until they leave. A thumbs up for their commitment to health and wellness!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Kalyan jeelakarra</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="assets/img/Testimonials female.jpg" class="testimonial-img" alt="">
+                <h3>Mounika</h3>
+                <!-- <h4>Ceo &amp; Founder</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
@@ -374,9 +374,10 @@
                   Abhiram Diagnostics is a good center where the doctors excel not only in their diagnostic expertise but also in their excellent communication skills. I appreciate how the doctors take the time to explain and address any concerns patients may have, contributing to a positive and informed healthcare experience.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>mallepallipacs </h3>
-                <h4>Designer</h4>
+                <!-- <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
+                <img src="assets/img/Testimonials female.jpg" class="testimonial-img" alt="">
+                <h3>Devi</h3>
+                <!-- <h4>Designer</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
@@ -387,9 +388,9 @@
                   Abhiram Diagnostics is a truly good center, and the patient reception is very nice. The welcoming and caring atmosphere makes the overall experience exceptional, ensuring that patients feel valued and well-received throughout their visit
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Meghana</h3>
-                <h4>Store Owner</h4>
+                <img src="assets/img/Testimonials male.png" class="testimonial-img" alt="">
+                <h3>Vamsi</h3>
+                <!-- <h4>Store Owner</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
@@ -400,9 +401,9 @@
                   The radiologists at Abhiram Diagnostics are truly commendable. Their excellent communication skills and the way they interact with patients create a positive and reassuring environment. Combined with the overall excellence of the center, it's undeniably a good choice for diagnostic services.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>vijay gandhi</h3>
-                <h4>Freelancer</h4>
+                <img src="assets/img/Testimonials female.jpg" class="testimonial-img" alt="">
+                <h3>Lavanya</h3>
+                <!-- <h4>Freelancer</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
@@ -413,9 +414,9 @@
                   Abhiram Diagnostics is truly an excellent center, thanks to its exceptional care and prompt reporting. The dedication to providing quality service and swift reporting sets it apart, making it a reliable choice for anyone seeking top-notch diagnostic services.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>M Shatiskumar</h3>
-                <h4>Entrepreneur</h4>
+                <img src="assets/img/Testimonials male.png" class="testimonial-img" alt="">
+                <h3>Venkatesh</h3>
+                <!-- <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 

@@ -505,7 +505,8 @@
       </div>
 
       <div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.093431429625!2d82.21978437704752!3d16.969953942200323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382936604c55b5%3A0x32f91741d2299ee5!2s8-19-10%2C%20Chaganti%20St%2C%20near%20Andhra%20Bank%20ATM%2C%20Pratap%20Nagar%2C%20Kakinada%2C%20Andhra%20Pradesh%20533004!5e0!3m2!1sen!2sin!4v1696527039649!5m2!1sen!2sin" style="border:0; width: 100%; height: 350px;" frameborder="0"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.093431429625!2d82.21978437704752!3d16.969953942200323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382936604c55b5%3A0x32f91741d2299ee5!2s8-19-10%2C%20Chaganti%20St%2C%20near%20Andhra%20Bank%20ATM%2C%20Pratap%20Nagar%2C%20Kakinada%2C%20Andhra%20Pradesh%20533004!5e0!3m2!1sen!2sin!4v1696527039649!5m2!1sen!2sin" style="border:0; width: 100%; height: 350px;" frameborder="0"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.095783527275!2d82.22086797568218!3d16.96983821469862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3829398ff50fa3%3A0x6357495b4f057cdf!2sAbhieeRaam%20Diagonstics%20%26%20Healthcare!5e0!3m2!1sen!2sin!4v1706503989084!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
 
       <div class="container">

@@ -15,6 +15,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $doctor = $_POST['doctor'] ?? '';
     $message = $_POST['message'] ?? '';
 
+
+    echo $name;
     // Create a new PHPMailer instance
     $mail = new PHPMailer(true);
 

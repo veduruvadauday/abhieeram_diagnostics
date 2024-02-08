@@ -645,14 +645,23 @@
       </div>
     </div>
 
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Abhieeraam Diagnostics</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        Designed by <a href="https://bhavicreations.com/" target="_blank">Bhavi Creations</a>
-      </div>
-    </div>
+    <div class="footer-area-bottom theme-bg">
+        <div class="container">
+           <div class="row  pt-4">
+              <div class="col-xl-8 col-lg-9 col-md-12 col-12">
+                 <div class="footer-widget__copyright">
+                    <p style="color:#0C0531">  ©2023 Abhieeram Diagnostics . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#026F7F">Bhavi Creations</a></p>
+                 </div>
+              </div> 
+              <div class="col-xl-4 col-lg-3 col-md-12 col-12">
+                 <div class="footer-widget__copyright-info info-direction ">
+                        <p><a href="terms.html" style="text-decoration: none;color:#026F7F">Terms  & conditions  </a>  
+                    <a href="privacy.html" style="text-decoration: none;color:#026F7F">   Privacy & policy</a></p>
+                  </div>
+              </div>
+           </div>
+        </div>
+   </div>
   </footer>
   
   <!-- End Footer -->

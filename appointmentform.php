@@ -25,14 +25,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'srimadhuraju@gmail.com'; // Your Gmail email address
-        $mail->Password = 'umlpkduhhhajjahi'; // Your Gmail password
+        $mail->Username = 'rameshpilli1428@gmail.com'; // Your Gmail email address
+        $mail->Password = 'jjpksiywaevdyyrc'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('srimadhuraju@gmail.com', 'abhieeram_diagnostics'); // Your Gmail email and name
-        $mail->addAddress('srimadhuraju@gmail.com', 'abhieeram_diagnostics'); // Recipient's email and name
+        $mail->setFrom('rameshpilli1428@gmail.com', 'abhieeram_diagnostics'); // Your Gmail email and name
+        $mail->addAddress('rameshpilli1428@gmail.com', 'abhieeram_diagnostics'); // Recipient's email and name
 
         // Content
         $mail->isHTML(true);
@@ -45,12 +45,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p><strong>Email:</strong> $email</p>
             <p><strong>Date:</strong> $date</p>
             <p><strong>Department:</strong> $department</p>
-            <p><strong>Email:</strong> $doctor</p>
+            <p><strong>Doctor:</strong> $doctor</p>
             <p><strong>Message:</strong><br>$message</p>
         ";
 
         $mail->send();
-        echo "Your appointment request has been sent successfully. Thank you!";
+        echo '<script> window.alert("Message has been sent.\n\nPlease click OK."); window.location.href="index.php";</script>';
+
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }

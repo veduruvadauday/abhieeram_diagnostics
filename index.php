@@ -483,7 +483,7 @@
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <!-- <div class="error-message"></div> -->
-                <div class="sent-message">Your appointment request has been sent successfully. Thank you!</div>
+                <!-- <div class="sent-message">Your appointment request has been sent successfully. Thank you!</div> -->
               </div>
               <div class="text-center"><button type="submit" >Make an Appointment</button></div>
             </form>
@@ -575,6 +575,8 @@
             </form>
           </div>
 
+          
+
         </div>
 
       </div>
@@ -650,13 +652,13 @@
            <div class="row  pt-4">
               <div class="col-xl-8 col-lg-9 col-md-12 col-12">
                  <div class="footer-widget__copyright">
-                    <p style="color:#0C0531">  ©2023 Abhieeram Diagnostics . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#026F7F">Bhavi Creations</a></p>
+                    <p style="color:#0C0531">  ©2023 Abhieeram Diagnostics . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#ffffff">Bhavi Creations</a></p>
                  </div>
               </div> 
               <div class="col-xl-4 col-lg-3 col-md-12 col-12">
                  <div class="footer-widget__copyright-info info-direction ">
-                        <p><a href="terms.html" style="text-decoration: none;color:#026F7F">Terms  & conditions  </a>  
-                    <a href="privacy.html" style="text-decoration: none;color:#026F7F">   Privacy & policy</a></p>
+                        <p><a href="terms.html" style="text-decoration: none;color:#ffffff">Terms  & conditions  </a>  
+                    <a href="privacy.html" style="text-decoration: none;color:#ffffff">   Privacy & policy</a></p>
                   </div>
               </div>
            </div>

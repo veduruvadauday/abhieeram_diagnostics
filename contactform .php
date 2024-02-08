@@ -22,18 +22,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'srimadhuraju@gmail.com'; // Your Gmail email address
-        $mail->Password = 'umlpkduhhhajjahi'; // Your Gmail password
+        $mail->Username = 'rameshpilli1428@gmail.com'; // Your Gmail email address
+        $mail->Password = 'jjpksiywaevdyyrc'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('srimadhuraju@gmail.com', 'abhieeram_diagnostic'); // Your Gmail email and name
-        $mail->addAddress('srimadhuraju@gmail.com', 'abhieeram_diagnostic'); // Recipient's email and name
+        $mail->setFrom('rameshpilli1428@gmail.com', 'abhieeram_diagnostics'); // Your Gmail email and name
+        $mail->addAddress('rameshpilli1428@gmail.com', 'abhieeram_diagnostics'); // Recipient's email and name
 
         // Content
         $mail->isHTML(true);
-        $mail->Subject = 'New Message from abhieeram_diagnostic';
+        $mail->Subject = 'New Message from Contact Form';
         $mail->Body = "
             <h1>New Message</h1>
             <h1>Contact Details</h1>
@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         ";
 
         $mail->send();
-       echo  "Your message has been sent. Thank you!";
+        echo '<script> window.alert("Message has been sent.\n\nPlease click OK."); window.location.href="index.php";</script>';
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }

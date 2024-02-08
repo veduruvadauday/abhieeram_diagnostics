@@ -630,11 +630,13 @@
               <strong>Email:</strong> arunahospital.999@gmail.com <br>
             </p>
             <div class="social-links mt-3">
-              <a href="https://www.facebook.com/profile.php?id=61551926656572" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a> 
-              <a href="https://www.instagram.com/abhiee_ram_diagnostics/?fbclid=IwAR3fTMbdJPmcOoYVvZKf4UICaWGWwmwvdCD-_s49MTmxbQBrF81Akv7HdgU"  target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.facebook.com/abhieeramdiagnostics/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a> 
+              <a href="https://www.instagram.com/abhiee_ram_diagnostics/"  target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
               <a href="https://www.youtube.com/channel/UCxqTQfOzRZLO7gNJQSgTGIw"  target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
-              <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
+              <a href="#"    class="google-plus"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://in.pinterest.com/abhieeraam/"   target="_blank" class="linkedin"><i class="bx bxl-pinterest"></i></a>
+              <a href="https://twitter.com/abhieeraam9518"  target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+
             </div>
 
           </div>
@@ -651,7 +653,9 @@
         Designed by <a href="https://bhavicreations.com/" target="_blank">Bhavi Creations</a>
       </div>
     </div>
-  </footer><!-- End Footer -->
+  </footer>
+  
+  <!-- End Footer -->
 
   <!-- WhatsApp link -->
   <a href="https://api.whatsapp.com/send?phone=919493740513" style="color: #fff;" class="whatsapp-link" target="_blank">

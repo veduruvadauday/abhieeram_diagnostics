@@ -629,7 +629,7 @@
             <h4>Contact us</h4>
             <p class="mt-2">
               <strong>Phone:</strong> +91 9493740513, 7997990181<br>
-              <strong>Email:</strong> arunahospital.999@gmail.com <br>
+              <strong>Email:</strong>abhieeraamdiagonstics2023@gmail.com<br>
             </p>
             <div class="social-links mt-3">
               <a href="https://www.facebook.com/abhieeramdiagnostics/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a> 

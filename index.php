@@ -53,7 +53,9 @@
           <li><a class="nav-link scrollto pe-5" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto me-5" href="#about">About</a></li>
           <li><a class="nav-link scrollto pe-5" href="#facilities">Facilities</a></li>
+          <li><a class="nav-link scrollto pe-5" href="#gallery">Gallery</a></li>
           <li><a class="nav-link scrollto pe-5" href="#contact">Contact</a></li>
+          
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -429,6 +431,7 @@
     <!-- End Testimonials Section -->
 
         <!-- ======= Appointment Section ======= -->
+
         <section id="appointment" class="appointment section-bg">
           <div class="container" data-aos="fade-up">
     
@@ -493,7 +496,109 @@
         
         <!-- End Appointment Section -->
 
+
+
+            <!-- =======  Gallery Section ======= -->
+
+            <section id="gallery" class="appointment section-bg">
+            <div class="container" data-aos="fade-up">
+    
+            <div class="section-title">
+              <h2>Gallery</h2>
+            </div>
+            
+            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+            <div class="swiper-wrapper">
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/1.png" class="img-fluid" alt="Mounika">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/2.png" class="img-fluid" alt="Devi">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/3.png" class="img-fluid" alt="Vamsi">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/4.png" class="img-fluid" alt="Lavanya">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/5.png" class="img-fluid" alt="Venkatesh">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/6.png" class="img-fluid" alt="Venkatesh">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/7.png" class="img-fluid" alt="Venkatesh">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/8.png" class="img-fluid" alt="Venkatesh">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/9.png" class="img-fluid" alt="Venkatesh">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/10.png" class="img-fluid" alt="Venkatesh">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/galleryimages/11.png" class="img-fluid" alt="Venkatesh">
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+            </div>
+            <br>
+            <br>
+            <div class="swiper-pagination mt-5"></div>
+          </div>
+          </div>
+        </section>
+        
+        <!-- End Gallery Section -->
+
     <!-- ======= Contact Section ======= -->
+
     <section id="contact" class="contact">
       <div class="container">
 
@@ -580,7 +685,9 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section>
+
+    <!-- End Contact Section -->
 
   </main><!-- End #main -->
 
@@ -669,9 +776,55 @@
   <!-- End Footer -->
 
   <!-- WhatsApp link -->
-  <a href="https://api.whatsapp.com/send?phone=919493740513" style="color: #fff;" class="whatsapp-link" target="_blank">
+  
+
+  <!-- Scroll Up Button  -->
+  <button id="scrollBtn" onclick="scrollToTop()"><i class="fa-solid fa-arrow-up "></i></button>
+      
+      <script>
+          // Function to scroll to the top of the page
+          function scrollToTop() {
+              window.scrollTo({
+                  top: 0,
+                  behavior: 'smooth' // Optional, smooth scrolling animation
+              });
+          }
+      
+          // Show scroll button when scrolling down
+          window.onscroll = function() {scrollFunction()};
+      
+          function scrollFunction() {
+              if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                  document.getElementById("scrollBtn").style.display = "block";
+              } else {
+                  document.getElementById("scrollBtn").style.display = "none";
+              }
+          }
+      </script>
+
+  <style>
+
+
+#scrollBtn {
+    display: none; /* Initially hide the button */
+    position: fixed; /* Fix the position of the button */
+    bottom: 80px; /* Adjust the bottom distance */
+    right: 20px; /* Adjust the right distance */
+    z-index: 999; /* Set a high z-index to ensure the button is on top */
+    padding: 10px 15px;
+    background-color:  #3385ff;
+    color: white;
+    border: none;
+    border-radius:50%;
+    cursor: pointer;
+  }
+  </style>
+
+
+<a href="https://api.whatsapp.com/send?phone=919493740513" style="color: #fff;" class="whatsapp-link" target="_blank">
     <i class="fab fa-whatsapp"></i>
   </a>
+
 
   <div id="preloader"></div>
   <!-- <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->

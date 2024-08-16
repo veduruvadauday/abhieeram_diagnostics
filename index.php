@@ -68,13 +68,11 @@
   <!-- ======= Hero Section ======= -->
   <div id="carouselExampleFade" data-bs-interval="3000"  class="carousel slide carousel-fade" data-bs-ride="carousel"  >
   <div class="carousel-inner cor_med">
-    <!-- <div class="carousel-item active">
-      <img src="assets/img/abhieeram_mothers_day_banner.jpg" class="d-block w-100" alt="...">
-    </div> -->
-    <div class="carousel-item  active  ">
+ 
+    <!-- <div class="carousel-item    ">
       <img src="assets/img/slide/indpendenceday.jpg" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item   ">
+    </div> -->
+    <div class="carousel-item active  ">
       <img src="assets/img/slide/slides4.jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
